@@ -1,4 +1,4 @@
-# modeloPortifolio
+# Modelo Portifolio
 Simulação de um portifólio utilizando HTML e CSS
 
 link do exercício &nbsp;
